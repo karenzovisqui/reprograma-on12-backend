@@ -105,4 +105,12 @@ se não, é ímpar
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 
+Um aluno estuda em um colégio que a nota necessária para ser aprovado na matéria é igual ou superior a 7, se a nota for inferior ou igual a 6 é reprovado.
+Na matéria de português ele tirou 10 na primeira prova e 9 na segunda prova,
+Na matéria de geometria ele tirou 4 na primeira prova e 5 na segunda prova.
+Para saber a média aritmética é necessário somar as notas das provas e dividir pelo número de provas realizadas.
+Para português: 10+9=19/2= 9, aprovado.
+Para geometria: 4+5=9/2= 4,5, reprovado.
+
+
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
