@@ -81,6 +81,13 @@ seguir corrigindo as demais provas
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
+um líder deve ser escolhido,
+o grupo de crianças deverá seguir os comandos do líder,
+quando o líder falar "morto", as crianças devem se abaixar,
+se alguma criança ficar de pé, deve sair da brincadeira,
+quando o líder falar "vivo", as crianças devem
+
+
 7. Faça um algoritmo que some três números.
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
