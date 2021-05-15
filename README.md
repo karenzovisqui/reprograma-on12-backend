@@ -38,6 +38,22 @@ Repetir o processo até lavar todos os pratos
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
+Pegar o estepe, o macaco e a chave de roda,
+com a chave de roda na porca da roda com o pneu furado, force com o pé na posição anti-horária para afrouxar o parafuso e repita o processo com os 4 parafusos,
+pegue o macaco e encaixe a chave de roda nele para servir de alavanca,
+posicione o macaco na beira de baixo do carro e rode a chave de roda no sentido anti-horário para levantar o carro,
+com o macaco suspenso e a roda fora do chão, coloque o estepe embaixo do carro para servir de apoio caso o macaco desarme,
+pegue a chave de roda e termine de desapertar os parafusos para retirar a roda,
+retire a roda e troque de lugar com o estepe para servir de apoio,
+coloque os 4 parafusos com a mão e aperta um pouco com a chave de roda para firmar a roda no carro,
+retire a roda que estava servindo de apoio,
+use a chave de roda para descer o macaco, dessa vez no sentido anti-horário,
+use a chave de roda para apertar os parafusos e aperte com o pé no sentido anti-horário para que fiquem firme, repita isso nos 4 parafusos,
+guarde a roda com o pneu furado no lugar que estava o estepe,
+lave as mãos,
+siga a viagem
+
+
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
