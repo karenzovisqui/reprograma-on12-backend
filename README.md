@@ -21,6 +21,21 @@ ligar o interruptor
 
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
+pegue a bucha,
+coloque detergente nela,
+abra a torneira,
+molhe a bucha,
+desligue a torneira,
+pegue um prato sujo,
+passe a bucha por todo o prato com movimentos circulares,
+guarde a bucha, 
+abra a torneira,
+enxague o prato até sair toda a espuma,
+verifique se o prato está limpo, se sim, feche a torneira e coloque no escorredor
+se não repetir o processo de lavagem,
+Repetir o processo até lavar todos os pratos
+
+
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
