@@ -97,6 +97,12 @@ somar os três números, 6+2+5= 13
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
+Para saber se um número é ímpar ou par é necessário realizar a divisão dele
+Dividir o número por 2,
+se o resto da divisão for 0, o número é par
+se não, é ímpar
+
+
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
