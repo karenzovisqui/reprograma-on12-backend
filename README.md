@@ -90,6 +90,11 @@ quando o líder falar "vivo", as crianças devem
 
 7. Faça um algoritmo que some três números.
 
+escolher três números,
+por exemplo: 6, 2 e 5,
+somar os três números, 6+2+5= 13
+
+
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
