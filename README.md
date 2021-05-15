@@ -56,6 +56,21 @@ siga a viagem
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
+pegue o seu cartão e o boleto a ser pago
+insira o cartão no caixa eletrônico
+coloque sua digital ou senha
+selecione na tela a opção "pagamentos"
+pegue o boleto e posicione o código de barras no leitor
+caso a leitura não tenha sido realizada, posicione corretamente no leitor
+caso a leitura foi feita corretamente, checar os dados disponíveis na tela
+com os dados corretos, selecione na tela "pagar"
+insira sua senha e confirme a operação
+aguarde o comprovante de pagamento sair
+retire o cartão
+selecione "finalizar" na tela
+
+
+
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
