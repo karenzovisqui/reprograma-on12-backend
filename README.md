@@ -114,3 +114,9 @@ Para geometria: 4+5=9/2= 4,5, reprovado.
 
 
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+
+Um funcionário atualmente recebe de salário R$700,00 e quer saber quanto irá ter de aumento,
+Os funcionários que recebem até R$500,00 terão aumento de 20%,
+os demais terão aumento de 10%,
+para calcular o valor que o funcionário terá de aumento é necessário somar o salário atual a 10% do mesmo,
+ficando R$700,00 + 10% = 770, porque 10% de R$700 é R$70,00
