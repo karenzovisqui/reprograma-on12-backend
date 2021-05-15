@@ -73,6 +73,12 @@ selecione "finalizar" na tela
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
+corrigir a primeira prova questão por questão com certo e errado
+evidenciar qual a resposta correta caso o aluno tenha errado,
+deixar a prova corrigida separada de forma visível para ser usada como consulta das respostas corretas
+seguir corrigindo as demais provas 
+
+
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
 7. Faça um algoritmo que some três números.
